@@ -11,4 +11,4 @@ Install [Composer](http://getcomposer.org/) and add amazon-mws to your `composer
 Version
 -------
 
-Current version is `amazon-mws-v20090101-php-2014-02-01._V361296217_`.
+Current version is `amazon-mws-v20090101-php-2016-09-21._V278445220_.zip`.
